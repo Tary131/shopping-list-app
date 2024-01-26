@@ -1,0 +1,194 @@
+{
+  "shoppingLists": [
+    {
+      "id": "aa05da15-865e-4cae-8ec7-a2cde3d90556",
+      "listName": "List Name....",
+      "items": [
+        {
+          "itemName": "item 1",
+          "quantity": 2,
+          "isSelected": false
+        },
+        {
+          "itemName": "item 2",
+          "quantity": 3,
+          "isSelected": true
+        },
+        {
+          "itemName": "item 3",
+          "quantity": 2,
+          "isSelected": false
+        },
+        {
+          "itemName": "banan",
+          "quantity": 1,
+          "isSelected": false
+        }
+      ],
+      "members": [
+        {
+          "name": "fghn",
+          "email": "bv nbm"
+        }
+      ],
+      "authorName": "john",
+      "totalItemCount": 8,
+      "completedItemCount": 1,
+      "uncompletedItemCount": 7,
+      "isArchived": true
+    },
+    {
+      "id": "4d65ad8c-b903-495c-9583-31b2f3c9cb6d",
+      "listName": "List Name....jkbkjnkjn",
+      "items": [
+        {
+          "itemName": "mn,",
+          "quantity": 1,
+          "isSelected": false
+        },
+        {
+          "itemName": "",
+          "quantity": 1,
+          "isSelected": true
+        },
+        {
+          "itemName": "",
+          "quantity": 1,
+          "isSelected": true
+        }
+      ],
+      "members": [
+        {
+          "name": "bnm,",
+          "email": "mn,"
+        }
+      ],
+      "authorName": "john",
+      "totalItemCount": 3,
+      "completedItemCount": 2,
+      "uncompletedItemCount": 1,
+      "isArchived": true
+    },
+    {
+      "id": "cf98e863-a451-4aa0-bc66-7bd6d117e698",
+      "listName": "g",
+      "items": [
+        {
+          "itemName": "",
+          "quantity": 1,
+          "isSelected": false
+        },
+        {
+          "itemName": "",
+          "quantity": 1,
+          "isSelected": false
+        },
+        {
+          "itemName": "",
+          "quantity": 1,
+          "isSelected": false
+        }
+      ],
+      "members": [],
+      "authorName": "john",
+      "totalItemCount": 3,
+      "completedItemCount": 0,
+      "uncompletedItemCount": 3,
+      "isArchived": true
+    },
+    {
+      "id": "e02e681f-d546-4065-bc5b-89ac29c7fe38",
+      "listName": "Lidl",
+      "items": [
+        {
+          "itemName": "banan",
+          "quantity": 1,
+          "isSelected": true
+        },
+        {
+          "itemName": "orange",
+          "quantity": 2,
+          "isSelected": true
+        },
+        {
+          "itemName": "bread",
+          "quantity": 3,
+          "isSelected": false
+        }
+      ],
+      "members": [
+        {
+          "name": "Oscar",
+          "email": "mail@tes.tom"
+        }
+      ],
+      "authorName": "john",
+      "totalItemCount": 6,
+      "completedItemCount": 2,
+      "uncompletedItemCount": 4,
+      "isArchived": true
+    },
+    {
+      "id": "1aa234c4-2061-4576-81d5-1d0b0fc352d7",
+      "listName": "sunday",
+      "items": [
+        {
+          "itemName": "item 1",
+          "quantity": 2,
+          "isSelected": true
+        },
+        {
+          "itemName": "item 2",
+          "quantity": 3,
+          "isSelected": true
+        },
+        {
+          "itemName": "item 3",
+          "quantity": 2,
+          "isSelected": true
+        },
+        {
+          "itemName": "banan",
+          "quantity": 1,
+          "isSelected": true
+        }
+      ],
+      "members": [
+        {
+          "name": "fghn",
+          "email": "bv nbm"
+        }
+      ],
+      "authorName": "john",
+      "totalItemCount": 8,
+      "completedItemCount": 4,
+      "uncompletedItemCount": 4
+    },
+    {
+      "id": "d6a89a72-2f9d-494c-949c-ab1556549c4f",
+      "listName": "m.n",
+      "items": [
+        {
+          "itemName": "p",
+          "quantity": 3,
+          "isSelected": false
+        },
+        {
+          "itemName": "",
+          "quantity": 1,
+          "isSelected": true
+        }
+      ],
+      "members": [
+        {
+          "name": "m",
+          "email": "m"
+        }
+      ],
+      "authorName": "john",
+      "totalItemCount": 4,
+      "completedItemCount": 1,
+      "uncompletedItemCount": 3
+    }
+  ]
+}

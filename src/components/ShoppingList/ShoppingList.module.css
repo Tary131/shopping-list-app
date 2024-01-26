@@ -1,0 +1,123 @@
+.appBackground {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+}
+
+.mainContainer {
+	background-color: #ffffff;
+	width: 500px;
+	height: min-content;
+	border-radius: 50px;
+	padding: 20px;
+	box-shadow: 10px 10px 26px 0px rgba(0, 0, 0, 0.35);
+}
+
+.addItemBox {
+	color: #0b35f2;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	display: flex;
+	align-items: center;
+	border-radius: 10px;
+	padding: 5px;
+}
+
+.addItemBox svg {
+	margin: 5px;
+}
+
+.addItemInput {
+	box-sizing: border-box;
+	border: none;
+	background: transparent;
+	color: #040404;
+	width: 100%;
+	height: 30px;
+}
+
+.itemList {
+	display: flex;
+	flex-direction: column;
+}
+
+.itemContainer {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	padding: 20px 0 20px 0;
+	border-bottom: 1px #000000 solid;
+}
+
+.itemName {
+	cursor: pointer;
+}
+
+.itemName svg {
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.itemActionButtons {
+	display: flex;
+	justify-content: space-between;
+}
+
+.removeButton {
+	color: rgb(0, 0, 0);
+	border: none;
+	border-radius: 50px;
+}
+
+.removeButton:hover {
+	background-color: rgba(228, 227, 227, 0.22);
+}
+
+.total {
+	float: right;
+	padding: 10px;
+}
+
+.quantity {
+	display: flex;
+	align-items: center;
+	border: 1px solid #000000;
+	background: white;
+	border-radius: 50px;
+	font-size: 12px;
+	color: #0b35f2;
+	min-width: 70px;
+	justify-content: space-between;
+}
+
+button {
+	background: transparent;
+	border: none;
+	margin: 3px;
+	color: #a40000;
+}
+
+button:hover {
+	cursor: pointer;
+}
+
+.completed {
+	text-decoration: line-through;
+}
+.appBackground.darkMode {
+	background-color: #333;
+	color: #fff;
+}
+
+.mainContainer.darkMode {
+	background-color: #1a1a1a;
+	color: #fff;
+}
+.addItemBox.darkMode {
+	color: #5c94ed;
+}
+.quantity.darkMode {
+	background: #5c94ed;
+	color: #000000;
+}
